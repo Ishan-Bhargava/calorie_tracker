@@ -1,0 +1,11 @@
+streamlit>=1.46
+google-genai>=1.0
+SQLAlchemy>=2.0
+bcrypt>=4.1
+python-dotenv>=1.0
+pandas>=2.0
+plotly>=5.18
+pydantic>=2.5
+tzdata>=2024.1
+truststore>=0.9
+psycopg[binary]>=3.1
